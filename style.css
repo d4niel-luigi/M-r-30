@@ -1,0 +1,318 @@
+@font-face {
+    font-family: 'Apricity Bold';
+    src: url('Apricity700.ttf');
+  }
+body{
+    background-image: url(img/hatterjpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nev{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    
+}
+.tkd{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.bemutatas{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bemutat{
+    background-color: rgba(100, 100, 100, 0.76);
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+    text-align: justify;
+    height: auto;
+}
+.elsotablazat{
+    width: 80%;
+    margin-left: 270px;
+    font-size: 40px;
+    line-height: 3;
+    margin-top: 30px;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: black;
+}
+.tobb{
+    text-align: center;
+    font-size: 25px;
+}
+.hosszuszov{
+    background-color: rgb(100, 100, 100,0.9);
+    width: 1500px;
+    height: 800px;
+    padding: 5px;
+    font-size: 20px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: justify;
+
+}
+.hosszutkd{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bo{
+    width: 200px;
+    height: 280px;
+}
+.ovfokozatok{
+    text-align: center;
+    font-size: 25px;
+}
+.reszek{
+    background-color: rgb(100, 100, 100, 0.9);
+    padding: 5px;
+    width: 400px;
+    line-height: 3;
+}
+.reszek2{
+    background-color: rgb(100, 100, 100, 0.9);
+    font-size: 20px;
+    width: 500px;
+    height: 886px;
+    padding: 10px;
+    float: right;
+}
+li{
+    font-size: 20px;
+    
+}
+.listakepek{
+    float: right;
+    width: 50px;
+}
+.listakepek1{
+    float: right;
+    width: 100px;
+}
+.egesz{
+    width: 930px;
+    margin: auto;
+}
+.sorrend{
+    margin-left: 100px;
+    width: 300px;
+}
+.versenyek{
+    text-align: center;
+    font-size: 40px;
+}
+.tablazat{
+    width: 1600px;
+    background-color: rgb(100, 100, 100, 0.9);
+    margin: auto;
+    padding: 10px;
+}
+.tabi{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: auto;
+    
+}
+.versenykepek{
+    width:300px;
+}
+.atbz{
+    width: 500px;
+    margin-left: 470px;
+}
+.szov{
+    font-size: 20px;
+    text-align: justify;
+}
+.action{
+    text-align: center;
+    font-size: 25px;
+}
+.sokkep{
+    background-color: rgb(100, 100, 100, 0.9);
+    padding: 10px;
+    width: 1830px;
+    margin: auto;
+}
+.ezekakepek{
+    width: 300px;
+    height: 300px;
+}
+.ezekakepek1{
+    width: 710px;
+    height: 400px;
+}
+.nemtom{
+    font-size: 40px;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+.ezekakepek2{
+    width: 500px;
+}
+.ugem{
+    margin-left: 200px;
+}
+video{
+    width: 700px;
+    margin-left: 250px;
+}
+.menu{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-left: 340px;
+  margin-right: 343px;
+}
+.menulista{
+    float: left;
+}
+.menulista a {
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menulista a:hover{
+    background-color: #111;
+}
+
+.menu1{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-left: 196px;
+  margin-right: 188px;
+}
+.menulista1{
+    float: left;
+}
+.menulista1 a {
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menulista1 a:hover{
+    background-color: #111;
+}
+
+.menu2{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+.menulista2{
+    float: left;
+}
+.menulista2 a {
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menulista2 a:hover{
+    background-color: #111;
+}
+.menu3{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-left: 191px;
+  margin-right: 191px;
+}
+.menulista3{
+    float: left;
+}
+.menulista3 a {
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menulista3 a:hover{
+    background-color: #111;
+}
+.menu4{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-left: 20px;
+  margin-right: 18px;
+}
+.menulista4{
+    float: left;
+}
+.menulista4 a {
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menulista4 a:hover{
+    background-color: #111;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Apricity Bold;
+    text-decoration: underline;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linkek{
+    font-size: 20px;
+    text-align: left;
+
+}
+.footer1{
+    margin-left: 340px;
+    font-size: 20px;
+}
+.footer2{
+    font-size: 20px;
+    margin-left: 198px;
+}
+.footer3{
+    font-size: 20px;
+}
+.footer4{
+    font-size: 20px;
+    margin-left: 193px;
+}
+.footer5{
+    font-size: 20px;
+    margin-left: 20px;
+}
